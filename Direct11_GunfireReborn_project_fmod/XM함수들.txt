@@ -1,0 +1,10 @@
+﻿XMConvertToRadians(Degree) : 디그리를 라디안으로 바꿔줌
+XMConvertToDegrees(Radian) : 라디안를 디그리로 바꿔줌
+
+XMVectorSet(float x, float y, float z, float w) : 내가 입력한 float값을 vector에 넣어줌. 보통 임의의 값으로 다른 값과 비교하기 위해 쓰임
+
+XMVector3TransformCoord(XMVECTOR vPos, XMMATRIX vMatrix) : 벡터와 행렬의 곱 계산 (점 변환) 동차좌표 1 적용
+
+XMVector3TransformNormal(XMVECTOR vPos, XMMATRIX vMatrix) :  벡터와 행렬의 곱 계산 (벡터 변환) 동차좌표 0 적용
+
+XMQuaternionRotationRollPitchYaw() 피치, 얍, 롤을 구해주는 함수이다. 순서대로 X, Y, Z순으로 쿼터니엄을 구함

@@ -1,0 +1,349 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\ShaderFiles\Shader_Deferred.hlsl(139,19-39): warning X3206: 'dot': implicit truncation of vector type
+C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\ShaderFiles\Shader_Deferred.hlsl(136,86-90): warning X3556: integer modulus may be much slower, try using uints if possible.
+C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\ShaderFiles\Shader_Deferred.hlsl(136,109-113): warning X3556: integer divides may be much slower, try using uints if possible.
+  
+  compilation object save succeeded; see C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\Shader_Deferred.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\Shader_Navigation.cso
+  VIBuffer_Triangle.cpp
+  VIBuffer_Terrain_Dynamic.cpp
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_terrain_dynamic.cpp(458): warning C4244: '인수': 'Engine::_uint'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  VIBuffer_Terrain.cpp
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_terrain.cpp(62): warning C4244: '인수': 'Engine::_uint'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  VIBuffer_Rect_Instance.cpp
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_rect_instance.cpp(124): warning C4244: '인수': 'int'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_rect_instance.cpp(202): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  VIBuffer_RectTrail.cpp
+  VIBuffer_Rect.cpp
+  VIBuffer_Point_Instance.cpp
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(118): warning C4244: '=': 'Engine::_uint'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(119): warning C4244: '=': 'Engine::_uint'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(120): warning C4244: '=': 'Engine::_uint'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(122): warning C4244: '인수': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(198): warning C4244: '=': 'Engine::_int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(203): warning C4244: '=': 'Engine::_int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(216): warning C4244: '=': 'Engine::_int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(219): warning C4244: '=': 'Engine::_int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(222): warning C4244: '=': 'Engine::_int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(244): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(247): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(249): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(279): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(316): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(345): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(373): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\vibuffer_point_instance.cpp(414): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  VIBuffer_Cube.cpp
+  VIBuffer.cpp
+  UI.cpp
+  Transform.cpp
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\transform.cpp(188): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\transform.cpp(200): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\transform.cpp(276): warning C4244: '초기화 중': 'Engine::_double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\transform.cpp(301): warning C4244: '초기화 중': 'Engine::_double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Timer_Manager.cpp
+  Timer.cpp
+  Texture.cpp
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\texture.cpp(17): warning C4267: '=': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Target_Manager.cpp
+  Sound_Manager.cpp
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\sound_manager.cpp(40): warning C4244: '+=': 'Engine::_double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Shader.cpp
+  RenderTarget.cpp
+  Renderer.cpp
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\renderer.cpp(45): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\renderer.cpp(49): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PipeLine.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Picking.cpp
+  Obsever_Manager.cpp
+  Object_Manager.cpp
+  Navigation.cpp
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\navigation.cpp(46): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Model.cpp
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\model.cpp(278): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MeshContainer.cpp
+  Light_Manager.cpp
+  Light.cpp
+  Level_Manager.cpp
+  Level.cpp
+  Layer.cpp
+  LandObject.cpp
+  Input_Device.cpp
+  HierarchyNode.cpp
+  Graphic_Device.cpp
+  GameObject.cpp
+  GameInstance.cpp
+  Frustum_Manager.cpp
+  Engine_Struct.cpp
+  EasingMgr.cpp
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(108): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(114): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(120): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(126): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(128): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(134): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(141): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(147): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(149): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(155): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(162): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(168): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(170): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(176): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(183): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(189): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(191): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(196): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(201): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(206): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(211): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(216): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(222): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(224): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(230): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(237): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(243): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(245): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(257): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(257): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(268): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(268): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(280): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(280): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(281): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(281): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(287): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(289): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(291): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\easingmgr.cpp(293): warning C4244: '인수': 'Engine::_double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\gameinstance.cpp(488): warning C4172: 지역 변수 또는 임시의 주소를 반환하고 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\gameinstance.cpp(499): warning C4172: 지역 변수 또는 임시의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  DebugDraw.cpp
+  Component_Manager.cpp
+  Component.cpp
+  Collider.cpp
+  Channel.cpp
+  Cell.cpp
+  Camera.cpp
+  Base.cpp
+  AnimBlending.cpp
+  Animation.cpp
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\animation.cpp(47): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\animation.cpp(127): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\animation.cpp(201): warning C4305: 'return': 'HRESULT'에서 'Engine::_bool'(으)로 잘립니다.
+c:\users\peh96\desktop\directx11_3d_project\direct3d_project ver 21.9fmod\engine\private\animation.cpp(205): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+     ..\Bin\Engine.lib 라이브러리 및 ..\Bin\Engine.exp 개체를 생성하고 있습니다.
+Effects11d.lib(d3dxGlobal.obj) : warning LNK4099: 'Effects11d.pdb' PDB를 'Effects11d.lib(d3dxGlobal.obj)' 또는 'C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\Effects11d.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11d.lib(EffectAPI.obj) : warning LNK4099: 'Effects11d.pdb' PDB를 'Effects11d.lib(EffectAPI.obj)' 또는 'C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\Effects11d.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11d.lib(EffectLoad.obj) : warning LNK4099: 'Effects11d.pdb' PDB를 'Effects11d.lib(EffectLoad.obj)' 또는 'C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\Effects11d.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11d.lib(EffectNonRuntime.obj) : warning LNK4099: 'Effects11d.pdb' PDB를 'Effects11d.lib(EffectNonRuntime.obj)' 또는 'C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\Effects11d.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11d.lib(EffectReflection.obj) : warning LNK4099: 'Effects11d.pdb' PDB를 'Effects11d.lib(EffectReflection.obj)' 또는 'C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\Effects11d.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11d.lib(EffectRuntime.obj) : warning LNK4099: 'Effects11d.pdb' PDB를 'Effects11d.lib(EffectRuntime.obj)' 또는 'C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\Effects11d.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(BasicEffect.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(BasicEffect.obj)' 또는 'C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(DDSTextureLoader.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(DDSTextureLoader.obj)' 또는 'C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(EffectCommon.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(EffectCommon.obj)' 또는 'C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(pch.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(pch.obj)' 또는 'C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(ScreenGrab.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(ScreenGrab.obj)' 또는 'C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(PrimitiveBatch.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(PrimitiveBatch.obj)' 또는 'C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(VertexTypes.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(VertexTypes.obj)' 또는 'C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(WICTextureLoader.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(WICTextureLoader.obj)' 또는 'C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  Engine.vcxproj -> C:\Users\peh96\Desktop\DirectX11_3D_Project\Direct3D_project ver 21.9Fmod\Engine\Default\..\Bin\Engine.dll
+  Engine.vcxproj -> ..\Bin\Engine.pdb (Full PDB)
+  '////'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
+  .\Engine\Public\Animation.h
+  .\Engine\Public\AnimBlending.h
+  .\Engine\Public\Base.h
+  .\Engine\Public\Camera.h
+  .\Engine\Public\Cell.h
+  .\Engine\Public\Channel.h
+  .\Engine\Public\Collider.h
+  .\Engine\Public\Component.h
+  .\Engine\Public\Component_Manager.h
+  .\Engine\Public\d3dx11effect.h
+  .\Engine\Public\d3dxGlobal.h
+  .\Engine\Public\DebugDraw.h
+  .\Engine\Public\EasingMgr.h
+  .\Engine\Public\Engine_Defines.h
+  .\Engine\Public\Engine_Easing.h
+  .\Engine\Public\Engine_Enum.h
+  .\Engine\Public\Engine_Function.h
+  .\Engine\Public\Engine_Macro.h
+  .\Engine\Public\Engine_Struct.h
+  .\Engine\Public\Engine_Typedef.h
+  .\Engine\Public\fmod.cs
+  .\Engine\Public\fmod.h
+  .\Engine\Public\fmod.hpp
+  .\Engine\Public\fmod_codec.h
+  .\Engine\Public\fmod_common.h
+  .\Engine\Public\fmod_dsp.cs
+  .\Engine\Public\fmod_dsp.h
+  .\Engine\Public\fmod_dsp_effects.h
+  .\Engine\Public\fmod_errors.cs
+  .\Engine\Public\fmod_errors.h
+  .\Engine\Public\fmod_output.h
+  .\Engine\Public\Frustum_Manager.h
+  .\Engine\Public\GameInstance.h
+  .\Engine\Public\GameObject.h
+  .\Engine\Public\Graphic_Device.h
+  .\Engine\Public\HierarchyNode.h
+  .\Engine\Public\Input_Device.h
+  .\Engine\Public\LandObject.h
+  .\Engine\Public\Layer.h
+  .\Engine\Public\Level.h
+  .\Engine\Public\Level_Manager.h
+  .\Engine\Public\Light.h
+  .\Engine\Public\Light_Manager.h
+  .\Engine\Public\MeshContainer.h
+  .\Engine\Public\Model.h
+  .\Engine\Public\Navigation.h
+  .\Engine\Public\Object_Manager.h
+  .\Engine\Public\Obsever_Manager.h
+  .\Engine\Public\Picking.h
+  .\Engine\Public\PipeLine.h
+  .\Engine\Public\Renderer.h
+  .\Engine\Public\RenderTarget.h
+  .\Engine\Public\Shader.h
+  .\Engine\Public\Sound_Manager.h
+  .\Engine\Public\Target_Manager.h
+  .\Engine\Public\Texture.h
+  .\Engine\Public\Timer.h
+  .\Engine\Public\Timer_Manager.h
+  .\Engine\Public\Transform.h
+  .\Engine\Public\UI.h
+  .\Engine\Public\VIBuffer.h
+  .\Engine\Public\VIBuffer_Cube.h
+  .\Engine\Public\VIBuffer_Point_Instance.h
+  .\Engine\Public\VIBuffer_Rect.h
+  .\Engine\Public\VIBuffer_RectTrail.h
+  .\Engine\Public\VIBuffer_Rect_Instance.h
+  .\Engine\Public\VIBuffer_Terrain.h
+  .\Engine\Public\VIBuffer_Terrain_Dynamic.h
+  .\Engine\Public\VIBuffer_Triangle.h
+  .\Engine\Public\assimp\.editorconfig
+  .\Engine\Public\assimp\aabb.h
+  .\Engine\Public\assimp\ai_assert.h
+  .\Engine\Public\assimp\anim.h
+  .\Engine\Public\assimp\BaseImporter.h
+  .\Engine\Public\assimp\Bitmap.h
+  .\Engine\Public\assimp\BlobIOSystem.h
+  .\Engine\Public\assimp\ByteSwapper.h
+  .\Engine\Public\assimp\camera.h
+  .\Engine\Public\assimp\cexport.h
+  .\Engine\Public\assimp\cfileio.h
+  .\Engine\Public\assimp\cimport.h
+  .\Engine\Public\assimp\color4.h
+  .\Engine\Public\assimp\color4.inl
+  .\Engine\Public\assimp\config.h
+  .\Engine\Public\assimp\config.h.in
+  .\Engine\Public\assimp\CreateAnimMesh.h
+  .\Engine\Public\assimp\DefaultIOStream.h
+  .\Engine\Public\assimp\DefaultIOSystem.h
+  .\Engine\Public\assimp\DefaultLogger.hpp
+  .\Engine\Public\assimp\Defines.h
+  .\Engine\Public\assimp\defs.h
+  .\Engine\Public\assimp\Exceptional.h
+  .\Engine\Public\assimp\Exporter.hpp
+  .\Engine\Public\assimp\fast_atof.h
+  .\Engine\Public\assimp\GenericProperty.h
+  .\Engine\Public\assimp\Hash.h
+  .\Engine\Public\assimp\Importer.hpp
+  .\Engine\Public\assimp\importerdesc.h
+  .\Engine\Public\assimp\IOStream.hpp
+  .\Engine\Public\assimp\IOStreamBuffer.h
+  .\Engine\Public\assimp\IOSystem.hpp
+  .\Engine\Public\assimp\irrXMLWrapper.h
+  .\Engine\Public\assimp\light.h
+  .\Engine\Public\assimp\LineSplitter.h
+  .\Engine\Public\assimp\LogAux.h
+  .\Engine\Public\assimp\Logger.hpp
+  .\Engine\Public\assimp\LogStream.hpp
+  .\Engine\Public\assimp\Macros.h
+  .\Engine\Public\assimp\material.h
+  .\Engine\Public\assimp\material.inl
+  .\Engine\Public\assimp\MathFunctions.h
+  .\Engine\Public\assimp\matrix3x3.h
+  .\Engine\Public\assimp\matrix3x3.inl
+  .\Engine\Public\assimp\matrix4x4.h
+  .\Engine\Public\assimp\matrix4x4.inl
+  .\Engine\Public\assimp\MemoryIOWrapper.h
+  .\Engine\Public\assimp\mesh.h
+  .\Engine\Public\assimp\metadata.h
+  .\Engine\Public\assimp\NullLogger.hpp
+  .\Engine\Public\assimp\ParsingUtils.h
+  .\Engine\Public\assimp\pbrmaterial.h
+  .\Engine\Public\assimp\postprocess.h
+  .\Engine\Public\assimp\Profiler.h
+  .\Engine\Public\assimp\ProgressHandler.hpp
+  .\Engine\Public\assimp\qnan.h
+  .\Engine\Public\assimp\quaternion.h
+  .\Engine\Public\assimp\quaternion.inl
+  .\Engine\Public\assimp\RemoveComments.h
+  .\Engine\Public\assimp\scene.h
+  .\Engine\Public\assimp\SceneCombiner.h
+  .\Engine\Public\assimp\SGSpatialSort.h
+  .\Engine\Public\assimp\SkeletonMeshBuilder.h
+  .\Engine\Public\assimp\SmoothingGroups.h
+  .\Engine\Public\assimp\SmoothingGroups.inl
+  .\Engine\Public\assimp\SpatialSort.h
+  .\Engine\Public\assimp\StandardShapes.h
+  .\Engine\Public\assimp\StreamReader.h
+  .\Engine\Public\assimp\StreamWriter.h
+  .\Engine\Public\assimp\StringComparison.h
+  .\Engine\Public\assimp\StringUtils.h
+  .\Engine\Public\assimp\Subdivision.h
+  .\Engine\Public\assimp\texture.h
+  .\Engine\Public\assimp\TinyFormatter.h
+  .\Engine\Public\assimp\types.h
+  .\Engine\Public\assimp\vector2.h
+  .\Engine\Public\assimp\vector2.inl
+  .\Engine\Public\assimp\vector3.h
+  .\Engine\Public\assimp\vector3.inl
+  .\Engine\Public\assimp\version.h
+  .\Engine\Public\assimp\Vertex.h
+  .\Engine\Public\assimp\XMLTools.h
+  .\Engine\Public\assimp\ZipArchiveIOSystem.h
+  .\Engine\Public\assimp\Compiler\poppack1.h
+  .\Engine\Public\assimp\Compiler\pstdint.h
+  .\Engine\Public\assimp\Compiler\pushpack1.h
+  .\Engine\Public\assimp\port\AndroidJNI\AndroidJNIIOSystem.h
+  .\Engine\Public\DirectXTK\Audio.h
+  .\Engine\Public\DirectXTK\CommonStates.h
+  .\Engine\Public\DirectXTK\DDSTextureLoader.h
+  .\Engine\Public\DirectXTK\DirectXHelpers.h
+  .\Engine\Public\DirectXTK\Effects.h
+  .\Engine\Public\DirectXTK\GamePad.h
+  .\Engine\Public\DirectXTK\GeometricPrimitive.h
+  .\Engine\Public\DirectXTK\GraphicsMemory.h
+  .\Engine\Public\DirectXTK\Keyboard.h
+  .\Engine\Public\DirectXTK\Model.h
+  .\Engine\Public\DirectXTK\Mouse.h
+  .\Engine\Public\DirectXTK\PostProcess.h
+  .\Engine\Public\DirectXTK\PrimitiveBatch.h
+  .\Engine\Public\DirectXTK\ScreenGrab.h
+  .\Engine\Public\DirectXTK\SimpleMath.h
+  .\Engine\Public\DirectXTK\SimpleMath.inl
+  .\Engine\Public\DirectXTK\SpriteBatch.h
+  .\Engine\Public\DirectXTK\SpriteFont.h
+  .\Engine\Public\DirectXTK\VertexTypes.h
+  .\Engine\Public\DirectXTK\WICTextureLoader.h
+  .\Engine\Public\DirectXTK\XboxDDSTextureLoader.h
+  177개 파일이 복사되었습니다.
+  .\Engine\bin\Engine.lib
+  .\Engine\bin\fmodL_vc.lib
+  .\Engine\bin\fmod_vc.lib
+  3개 파일이 복사되었습니다.
+  .\Engine\bin\Engine.dll
+  .\Engine\bin\fmod.dll
+  .\Engine\bin\fmodL.dll
+  3개 파일이 복사되었습니다.
+  .\Engine\bin\ShaderFiles\Shader_Deferred.hlsl
+  .\Engine\bin\ShaderFiles\Shader_Navigation.hlsl
+  2개 파일이 복사되었습니다.

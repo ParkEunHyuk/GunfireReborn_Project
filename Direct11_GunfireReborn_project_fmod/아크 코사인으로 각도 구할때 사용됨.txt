@@ -1,0 +1,49 @@
+이건 1,1,1 포지션에서 바로 정면을 보고 있을 경우 양,옆을 구별해줌
+	_float TempRadian;
+
+	XMStoreFloat(&TempRadian, XMVector3Dot(vLook, XMLoadFloat3(&_float3(1.f, 0.f, 0.f))));
+
+	_float fRadian = acosf(TempRadian);
+
+	if (XMConvertToRadians(90) < fRadian)
+		return true;
+	else
+		return false;
+
+
+
+이건 1,1,1 포지션에서 바로 정면을 보고 있을 경우 위,아래을 구별해줌
+	_vector vLook = m_pTransform->Get_State(CTransform::STATE_LOOK);
+
+	vLook = XMVector3Normalize(vLook);
+
+
+	_float TempRadian;
+
+	XMStoreFloat(&TempRadian, XMVector3Dot(vLook, XMLoadFloat3(&_float3(0.f, 1.f, 0.f))));
+
+	_float fRadian = acosf(TempRadian);
+
+	if (XMConvertToRadians(90) < fRadian)
+		return true;
+	else
+		return false;
+
+
+
+
+
+
+
+
+이건 1,1,1 포지션에서 바로 정면을 보고 있을 경우 앞뒤를 구별해줌
+	_float TempRadian;
+
+	XMStoreFloat(&TempRadian, XMVector3Dot(vLook, XMLoadFloat3(&_float3(0.f, 0.f, 1.f))));
+
+	_float fRadian = acosf(TempRadian);
+
+	if (XMConvertToRadians(90) < fRadian)
+		return true;
+	else
+		return false;
